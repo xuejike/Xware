@@ -3,7 +3,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 const Application = function () {
-    this.backUrl = '/api';
+    this.backUrl = '/xunlei/api';
     this.baseInfo = null;
     this.incList = [];
     this.comList = [];
